@@ -75,7 +75,7 @@ export default class TransactionScreen extends Component {
   };
 
   initiateBookIssue = () => {
-    console.log("Livro retirado pelo aluno!");
+    console.log("Livro entregue para o aluno!");
   };
 
   initiateBookReturn = () => {
